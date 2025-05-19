@@ -1,3 +1,5 @@
+#  GitHub Guide: Practical Case Studies for Beginners
+
 ![GitHub Guide](https://images.unsplash.com/photo-1518773553398-650c184e0bb3?ixid=M3w3MjUzNDh8MHwxfHNlYXJjaHwyfHxnaXRodWIlMjBjb2RlJTIwY29sbGFib3JhdGlvbnxlbnwwfHx8fDE3NDc2NzU5MzN8MA&ixlib=rb-4.1.0&fit=fillmax&h=500&w=800)
 
 A comprehensive, interactive guide to GitHub for beginners with practical case studies and hands-on examples.
@@ -64,3 +66,12 @@ This project is built with:
 - **Interactive Examples**: Code snippets and step-by-step guides
 - **Modern UI**: Clean, accessible interface with Tailwind CSS
 
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 🙏 Acknowledgments
+
+- Images from [Unsplash](https://unsplash.com)
+- Icons from [Lucide React](https://lucide.dev)
+ 
